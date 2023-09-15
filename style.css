@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-    max-width: 600px; /* Limit form width for readability */
+    max-width: 500px; /* Limit form width for readability */
     margin: 0 auto; /* Center-align the form */
     padding: 20px;
     background-color: #444; /* Darker background for form */
