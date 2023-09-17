@@ -1,6 +1,6 @@
 body {
-    background-color: #f0f0f0; /* Light background color */
-    color: #333; /* Dark text color */
+    background-color: #333; /* Dark background color */
+    color: #fff; /* Light text color */
     font-family: Arial, sans-serif;
     text-align: center; /* Center-align the content */
     margin: 0; /* Remove default margin */
@@ -11,9 +11,9 @@ body {
     max-width: 600px; /* Limit form width for readability */
     margin: 0 auto; /* Center-align the form */
     padding: 20px;
-    background-color: #fff; /* Light background for form */
+    background-color: #444; /* Dark background for form */
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a subtle shadow */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3); /* Add a subtle shadow */
 }
 
 h1, h2 {
@@ -22,7 +22,7 @@ h1, h2 {
 
 label {
     display: block;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
     text-align: left; /* Left-align labels */
     color: #00bcd4; /* Accent color for labels */
 }
@@ -33,11 +33,11 @@ input[type="tel"],
 input[type="number"],
 textarea {
     width: 100%;
-    padding: 10px;
-    margin-bottom: 10px;
-    background-color: #f9f9f9; /* Light background for input fields */
-    color: #333; /* Dark text color */
-    border: 1px solid #ccc; /* Add a border for separation */
+    padding: 8px;
+    margin-bottom: 15px;
+    background-color: #555; /* Dark background for input fields */
+    color: #fff; /* Light text color */
+    border: 1px solid #666; /* Add a border for separation */
     border-radius: 5px;
 }
 
